@@ -377,12 +377,25 @@ footer{
     justify-content: space-around;
     align-items: center;
     flex-direction: row;
+    flex-wrap: wrap;
 }
 
 footer h5{
     margin-bottom: 0;
     color: #fff;
     font-weight: 600;
+}
+
+@media (max-width:560px){
+    footer h5{
+        font-size: 1em;
+        margin-bottom: 0.5rem;
+        
+    }
+
+    footer .icons{
+        width: 60% !important;
+    }
 }
 
 footer .icons{
