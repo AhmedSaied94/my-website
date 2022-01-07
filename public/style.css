@@ -283,7 +283,8 @@ second #4d5256
 }
 
 #projects{
-    background-image: linear-gradient(#547980, #4d5256);
+    background-image: linear-gradient(to right, #000026, #013857);
+
 }
 
 #projects .title{
