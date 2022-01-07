@@ -158,7 +158,9 @@ second #4d5256
     /* background: url(./imgs/WhatsApp\ Image\ 2022-01-04\ at\ 4.24.27\ PM.jpeg);
     background-size: cover;
     background-position: right 30%; */
-    background-color: #000;
+    /* background-color: #000; */
+    background-image: url(./imgs/main.jpg);
+    background-size: cover;
     color: #fff;
     
 }
